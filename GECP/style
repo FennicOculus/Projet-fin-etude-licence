@@ -1,0 +1,14 @@
+*font:                          Ubuntu 14
+*Label*font:                    Ubuntu 14
+*color:				#2F4F4F 
+*background:                    #87CEFA
+*Entry*background:              white
+*foreground:                    black
+*Listbox*foreground:            RoyalBlue
+*Menubutton*background:		white
+*Menubutton*selectcolor:	red
+*Button*relief:			flat
+
+
+
+
